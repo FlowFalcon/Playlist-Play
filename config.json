@@ -1,0 +1,19 @@
+{
+  "playlistName": "FlowFalcon Playlist",
+  "playlist": [
+    {
+      "title": "五等分の未来",
+      "artist": "Nakanoke no Itsutsugo",
+      "path": "music/song1.mp3",
+      "albumArt": "images/album1.jpg",
+      "lyricsPath": "lyrics/song1.lrc"
+    },
+    {
+      "title": "五等分の気持ち",
+      "artist": "Nakanoke no Itsutsugo",
+     "path": "music/song2.mp3",
+      "albumArt": "images/album2.jpg",
+      "lyricsPath": "lyrics/song2.lrc"
+    }
+  ]
+}
