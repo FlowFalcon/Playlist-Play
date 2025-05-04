@@ -29,7 +29,8 @@ music-player/
 1. **Persiapan File**
    - Buat folder `music/` dan masukkan file musik MP3 Anda
    - Buat folder `lyrics/` dan masukkan file lirik LRC Anda
-   - Buat folder `images/` dan masukkan gambar album, atau bisa juga lewat url
+   - Buat folder `images/` dan masukkan gambar album
+> atau bisa juga lewat url agar lebih efesien
 
 
 2. **Konfigurasi**
